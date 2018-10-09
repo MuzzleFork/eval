@@ -1,0 +1,19 @@
+{
+  "name": "eval",
+  "version": "1.0.0",
+  "description": "Heroku Evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuzzleFork/eval.git"
+  },
+  "author": "Lucas Eagleton <lucas@eagleton.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuzzleFork/eval/issues"
+  },
+  "homepage": "https://github.com/MuzzleFork/eval#readme"
+}
